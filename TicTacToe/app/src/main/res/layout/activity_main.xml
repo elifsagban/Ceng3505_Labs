@@ -17,6 +17,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:freezesText="true"
             android:textSize="36sp" />
 
         <Button
@@ -24,6 +25,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:freezesText="true"
             android:textSize="36sp" />
 
         <Button
@@ -31,6 +33,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:freezesText="true"
             android:textSize="36sp" />
     </TableRow>
 
@@ -44,6 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:freezesText="true"
             android:textSize="36sp" />
 
         <Button
@@ -51,6 +55,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:freezesText="true"
             android:textSize="36sp" />
 
         <Button
@@ -58,6 +63,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:freezesText="true"
             android:textSize="36sp" />
     </TableRow>
 
@@ -71,6 +77,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:freezesText="true"
             android:textSize="36sp" />
 
         <Button
@@ -78,6 +85,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:freezesText="true"
             android:textSize="36sp" />
 
         <Button
@@ -85,6 +93,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:freezesText="true"
             android:textSize="36sp" />
     </TableRow>
 </TableLayout>
