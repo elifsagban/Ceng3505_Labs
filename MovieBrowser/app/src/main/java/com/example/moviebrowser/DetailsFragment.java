@@ -70,8 +70,14 @@ public class DetailsFragment extends Fragment {
 
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
+        movie = (Movie)getArguments().getSerializable(ARG_PARAM1);
+        setMovie(movie, view);
 
 
+
+    }
+    public  void setMovie(Movie movie, View view){
+        this.movie = movie;
         TextView txtName = (TextView)view.findViewById(R.id.txtMovieName);
         txtName.setText(movie.getName());
 
@@ -87,6 +93,6 @@ public class DetailsFragment extends Fragment {
         ListView listView = (ListView) view.findViewById(R.id.lstStars);
         listView.setAdapter(new ArrayAdapter<String>(getActivity(), R.layout.array_adapter,
                 movie.getStars().toArray(new String[1])));
-    }
 
+    }
 }
