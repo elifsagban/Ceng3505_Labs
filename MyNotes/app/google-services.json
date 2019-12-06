@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426838427736",
+    "firebase_url": "https://mynotes-21987.firebaseio.com",
+    "project_id": "mynotes-21987",
+    "storage_bucket": "mynotes-21987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426838427736:android:b70f3ffdd76b6ae3a2222d",
+        "android_client_info": {
+          "package_name": "com.elif.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426838427736-r21hm4gm42fmib9jfakdlfol4s0eda55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvX_XdFsf1gwcYh7qdK64Fjv_-fFdIeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426838427736-r21hm4gm42fmib9jfakdlfol4s0eda55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
