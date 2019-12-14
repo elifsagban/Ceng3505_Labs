@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "438245690819",
+    "firebase_url": "https://mytimeline-56571.firebaseio.com",
+    "project_id": "mytimeline-56571",
+    "storage_bucket": "mytimeline-56571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438245690819:android:581af8dd074cb4241e8176",
+        "android_client_info": {
+          "package_name": "com.elif.mytimeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438245690819-109r9t7heun21gtf1sciatpl8g983urj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elif.mytimeline",
+            "certificate_hash": "fd8346ab11440181abd0494ab58a909c5c9ba20e"
+          }
+        },
+        {
+          "client_id": "438245690819-l2tpch8vve3ls0a3r3rcip1djumipel5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALO3YH6TPiifd5RWFhxDXhDgdDySO6w2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438245690819-l2tpch8vve3ls0a3r3rcip1djumipel5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
